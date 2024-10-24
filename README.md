@@ -93,6 +93,3 @@ If at any point you want to stop the chatbot mid-response, click the **Stop** bu
 - **Ollama not running**: Ensure Ollama is running by checking `http://localhost:11434/api` in your browser.
 - **API connection error**: If the chatbot cannot connect to Ollama, verify that the API URL is correct and reachable.
 
-## License
-
-This project is licensed under the MIT License.
