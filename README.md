@@ -1,7 +1,7 @@
 
 # AI Chatbot -BUADGURU
 
-This project is an AI chatbot with real-time streamed responses using a Tkinter-based GUI. The chatbot simulates a typing effect similar to ChatGPT, using the Ollama API for natural language processing.
+This project is an AI chatbot with real-time streamed responses which give 21 days plan of learning anything using a Tkinter-based GUI. The chatbot simulates a typing effect similar to ChatGPT, using the Ollama API for natural language processing.
 
 ## Features
 - **Real-time typing effect**: Responses stream in character by character.
@@ -21,8 +21,8 @@ This project is an AI chatbot with real-time streamed responses using a Tkinter-
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/prashant-jadon/BaudGURU.git
+cd BaudGuru
 ```
 
 ### Step 2: Install Dependencies
@@ -80,22 +80,10 @@ This will launch the GUI, where you can interact with the chatbot by entering qu
 
 If at any point you want to stop the chatbot mid-response, click the **Stop** button in the GUI to immediately halt the typing.
 
-## Running the Chatbot with a Start Script (Optional)
-
-If you want to run both Ollama and the chatbot with a single command, you can use the provided start script.
-
-On Linux/Mac, run:
-```bash
-bash start.sh
-```
-
-This will:
-1. Start Ollama in the background.
-2. Launch the Python chatbot application.
-
 ## Screenshots
 
-![Chatbot UI](path-to-your-screenshot.png)
+![Chatbot UI]([path-to-your-screenshot.png](https://github.com/prashant-jadon/BaudGURU/blob/8687565796f47e6efdd781662818ebdacf45070b/img1.png))
+![Chatbot UI]([path-to-your-screenshot.png](https://github.com/prashant-jadon/BaudGURU/blob/8687565796f47e6efdd781662818ebdacf45070b/img2.png))
 
 ## Troubleshooting
 
