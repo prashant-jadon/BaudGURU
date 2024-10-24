@@ -4,10 +4,9 @@
 This project is an AI chatbot with real-time streamed responses which give 21 days plan of learning anything using a Tkinter-based GUI. The chatbot simulates a typing effect similar to ChatGPT, using the Ollama API for natural language processing.
 
 ## Features
-- **Real-time typing effect**: Responses stream in character by character.
-- **Simple, intuitive UI**: Built using Tkinter for an easy-to-use graphical interface.
-- **Stop button**: Allows users to interrupt the response typing at any time.
-
+- **AI MODFILE TO Prepare Plan for 21 Days**: Customize LLM Model using Ollama base on llama 3.2 for preparaing response on custom LLM prompt.
+- **Build in Python and Tkinter**: Built using Tkinter for an easy-to-use graphical interface.
+- 
 ## Requirements
 
 - **Python 3.x**
