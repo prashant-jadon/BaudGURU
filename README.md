@@ -82,7 +82,7 @@ If at any point you want to stop the chatbot mid-response, click the **Stop** bu
 
 ## Screenshots
 
-![Chatbot UI]([path-to-your-screenshot.png](https://github.com/prashant-jadon/BaudGURU/blob/8687565796f47e6efdd781662818ebdacf45070b/img1.png))
+![Chatbot UI]([https://github.com/prashant-jadon/BaudGURU/blob/8687565796f47e6efdd781662818ebdacf45070b/img1.png])
 ![Chatbot UI]([path-to-your-screenshot.png](https://github.com/prashant-jadon/BaudGURU/blob/8687565796f47e6efdd781662818ebdacf45070b/img2.png))
 
 ## Troubleshooting
